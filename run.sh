@@ -1,3 +1,3 @@
 #!/bin/bash
-g++ 03_arrays.cpp
+g++ 04_vectores.cpp
 ./a.out
