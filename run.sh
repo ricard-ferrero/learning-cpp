@@ -1,3 +1,3 @@
 #!/bin/bash
-g++ 04_vectores.cpp
+g++ ahorcado.cpp
 ./a.out
